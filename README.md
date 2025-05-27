@@ -38,7 +38,6 @@ Again. that's it!
 ### Prerequisites
 - Node.js
 - Python 3.x
-- what is needed for next.js?
 
 ### Steps
 1. Clone the repository
