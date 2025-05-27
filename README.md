@@ -25,6 +25,7 @@ That's it! The backend only has basic CRD (no updates!) for trades. There's a /i
 - Basic BE requests (directly from client-site to BE) in networker.ts
 - Global state management using jotai (in store/atoms.ts)
 - Some charts using recharts (in components) > see bar-chart.tsx, pie-chart.tsx
+- Input validation with zod
 - Some components using shadcn/ui (in components)
 - A table of trades, mostly adapted from shadcn/ui, powered by tanstack-table (in components/data-table.tsx)
 - A sidenav bar, mostly adapted from shadcn/ui (in components/sidenav.tsx)
